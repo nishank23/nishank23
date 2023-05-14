@@ -6,13 +6,13 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-# 🔭 I’m currently working on Flutter
-# 🌱 I’m currently learning Nodejs
-# 👯 I’m looking to collaborate on Flutter
-# 🤔 I’m looking for help with Flutter
-# 💬 Ask me about Flutter and android 
-# 📫 How to reach me: https://www.linkedin.com/in/nishankbansal4/
-# ⚡ Fun fact: Flutter uses its own customizable widgets and graphics engine, and offers a hot reload feature for faster development.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Nodejs
+- 👯 I’m looking to collaborate on Flutter
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about Flutter and android 
+- 📫 How to reach me: https://www.linkedin.com/in/nishankbansal4/
+- ⚡ Fun fact: Flutter uses its own customizable widgets and graphics engine, and offers a hot reload feature for faster development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishankbansal4) 
