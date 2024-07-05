@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Nodejs
+- 🤔 I’m looking for help with Web3
 - 💬 Ask me about Flutter and android 
 - 📫 How to reach me: https://www.linkedin.com/in/nishankbansal4/
 - ⚡ Fun fact: Flutter uses its own customizable widgets and graphics engine, and offers a hot reload feature for faster development.
