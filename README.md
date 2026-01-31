@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning Spring Boot.
-- 👯 I’m looking to collaborate on Spring boot.
-- 🤔 I’m looking for help with Spring boot.
+- 🔭 I’m currently working on react.
+- 🌱 I’m currently learning web3 and react.
+- 👯 I’m looking to collaborate on web3 solana or ethereum chain.
+- 🤔 I’m looking for help with web3 solana chain.
 - 📫 How to reach me: https://www.linkedin.com/in/nishankbansal4/
 
 ## 🌐 Socials:
