@@ -14,7 +14,7 @@ I'm a Software Engineer with 4+ years of experience in backend and mobile develo
 
 🚢 **ShipmentTrack** — Multi-carrier shipment tracking with HTML/JSON parsing, cron jobs, ETA tracking, and email notifications.
 
-📍 **GeoGuard** *(in progress)* — Exploring IP geolocation, network data, and VPN/proxy risk scoring.
+📍 **VPNLENS** *(in progress)* — Exploring IP geolocation, network data, and VPN/proxy risk scoring.
 
 🧮 **SQL Analytics** *(coming soon)* — Practical SQL problems using business and logistics data.
 
