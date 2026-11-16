@@ -15,6 +15,7 @@ Around 200 containers a month, used by several companies in Mozambique. [Try it 
 
 ### Other projects
 
+<<<<<<< Updated upstream
 | Project | What it does | Built with |
 |---|---|---|
 | [system-updater-backend](https://github.com/nishank23/system-updater-backend) | Pushes OTA update configs to Android devices over WebSockets | Node.js, WebSockets |
@@ -26,3 +27,6 @@ Around 200 containers a month, used by several companies in Mozambique. [Try it 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,postgres,mongodb,firebase,docker,gcp,flutter,kotlin&perline=11" alt="TypeScript, Node.js, React, Python, PostgreSQL, MongoDB, Firebase, Docker, GCP, Flutter, Kotlin">
 
 <sub>4+ years · Full Stack Developer at Angu Comercial · 21+ Upwork projects, 100% Job Success</sub>
+=======
+Reach me on [LinkedIn](https://linkedin.com/in/nishankbansal4) or through [nisvu.com](https://nisvu.com).
+>>>>>>> Stashed changes
