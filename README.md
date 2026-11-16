@@ -1,18 +1,28 @@
 ## Nishank Bansal
 
-Full stack engineer, 4+ years. I build the backends, integrations and internal tools that small businesses run day to day.
+Full stack engineer in Maputo. I build the software small businesses run on every day.
 
-Since Nov 2023 I've been a Full Stack Developer at Angu Comercial Lda in Maputo, on a small team. Before that I did 21+ freelance projects on Upwork (2,100+ billed hours, 100% Job Success) and built Android apps at V Care Technologies and RadicoSoft.
+[LinkedIn](https://linkedin.com/in/nishankbansal4) · [Portfolio](https://nishank-portfolio.web.app) · [Email](mailto:bansalnishank4@gmail.com)
 
-The main thing I run in production is [ShipTrack](https://github.com/nishank23/shipmenttrack). It tracks shipping containers across MSC, ONE, Evergreen and PIL through their reverse engineered tracking endpoints, and emails people when an ETA changes. Multiple companies in Mozambique use it, around 200 containers a month. React 19, Firebase Cloud Functions on Node 22, Firestore. Live at [shipmenttrack-837ec.web.app](https://shipmenttrack-837ec.web.app).
+### Running in production
 
-Other work:
+<a href="https://github.com/nishank23/shipmenttrack">
+  <img src="https://raw.githubusercontent.com/nishank23/shipmenttrack/main/docs/sign-in.jpg" alt="ShipTrack" width="100%">
+</a>
 
-- [system-updater-backend](https://github.com/nishank23/system-updater-backend) - Node.js service that serves A/B OTA update configs to Android system updater apps and notifies devices over WebSockets.
-- [ResumeForge](https://github.com/nishank23/ResumeForge) - AI resume builder. TypeScript, React, Hono, PostgreSQL with pgvector, Gemini.
-- [VPNLens](https://github.com/nishank23/VPNLens) - IP geolocation and ASN lookup pipeline in Python and PostgreSQL. In progress.
-- [Invoice_NodeJs-](https://github.com/nishank23/Invoice_NodeJs-) - Node.js invoice generator backend.
+**[ShipTrack](https://github.com/nishank23/shipmenttrack)**: paste a bill of lading, follow every container across MSC, ONE, Evergreen and PIL, and get an email when the ETA moves.
+Around 200 containers a month, used by several companies in Mozambique. [Try it live](https://shipmenttrack-837ec.web.app).
 
-I've also built system-level Android apps for clients: a system updater, music player, dialer and gallery.
+### Other projects
 
-Reach me on [LinkedIn](https://linkedin.com/in/nishankbansal4) or through [nishank-portfolio.web.app](https://nishank-portfolio.web.app).
+| Project | What it does | Built with |
+|---|---|---|
+| [system-updater-backend](https://github.com/nishank23/system-updater-backend) | Pushes OTA update configs to Android devices over WebSockets | Node.js, WebSockets |
+| [ResumeForge](https://github.com/nishank23/ResumeForge) | Tailors a resume to a job description with AI | TypeScript, React, pgvector, Gemini |
+| [VPNLens](https://github.com/nishank23/VPNLens) | IP geolocation and ASN lookup pipeline (in progress) | Python, PostgreSQL |
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,postgres,mongodb,firebase,docker,gcp,flutter,kotlin&perline=11" alt="TypeScript, Node.js, React, Python, PostgreSQL, MongoDB, Firebase, Docker, GCP, Flutter, Kotlin">
+
+<sub>4+ years · Full Stack Developer at Angu Comercial · 21+ Upwork projects, 100% Job Success</sub>
